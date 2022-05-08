@@ -52,7 +52,7 @@ Fim
 
 --------------------------------------------------------
 
-![fluxograma](https://github.com/gtmach/Exerc-cio_individual_Censo_Demográfico_Algoritimos_e_Programacao_020522/blob/main/censo_fluxograma.png)
+![fluxograma](https://github.com/gtmach/Exerc-cio_individual_Censo_Demogr-fico_Algoritimos_e_Programacao_020522/blob/main/censo_fluxograma.png)
 
 #Última atualização 07/05/2022
 
